@@ -2,4 +2,13 @@ Script ini tidak menyediakan foto, silahkan mengisi sendiri atau upload sendiri 
 
 Jika menggunakan langsung dengan link. Maka, silahkan masukan link fotonnya ke source img nya
 
-<img src="MASUKANLINK">
+			<div class="box">
+				<img src="MASUKANLINK">
+				<h3>Feliscatus Joss</h3>
+				<h5>Developer</h5>
+				<div class="icons">
+					<a href="#"><i class="ri-twitter-fill"></i></a>
+					<a href="#"><i class="ri-facebook-box-fill"></i></a>
+					<a href="#"><i class="ri-instagram-fill"></i></a>
+				</div>
+			</div>
