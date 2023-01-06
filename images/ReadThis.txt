@@ -1,0 +1,5 @@
+Script ini tidak menyediakan foto, silahkan mengisi sendiri atau upload sendiri didalam folder ini dengan foto maupun gambar kesukaan.
+
+Jika menggunakan langsung dengan link. Maka, silahkan masukan link fotonnya ke source img nya
+
+<img src="MASUKANLINK">
